@@ -1,3 +1,4 @@
 # DHCP_julio
-## Configurar las redes del equipo
-## Configurar los archivos de configuracion
+## - [Configurar las redes del equipo](redes.md)
+## - [Configurar los archivos de configuracion](archivos.md)
+## - []
