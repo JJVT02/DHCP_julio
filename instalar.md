@@ -7,3 +7,7 @@ Configuración: Abre el archivo /etc/dhcp/dhcpd.conf y define las configuracione
 ```
 sudo systemctl restart isc-dhcp-server
 ```
+Y para ver su estado puedes hacer:
+```
+sudo systemctl status isc-dhcp-server
+```
